@@ -42,7 +42,7 @@ public class DataSendTestApplication {
 			}
 		}
 	}
-
+ 
 	void one(){
 		JSONObject jsonObject = new JSONObject();
 		jsonObject.put("deviceId", "100");
